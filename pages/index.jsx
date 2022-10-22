@@ -195,7 +195,7 @@ export default function Home() {
               <br/>
               <div class="formgroup">
                 <label>
-                  Send Albert a message
+                  Send Duolingo a message
                 </label>
                 <br/>
 
